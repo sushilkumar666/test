@@ -1,0 +1,1 @@
+console.log("this is a simple sentence in index.js file")
